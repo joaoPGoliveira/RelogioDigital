@@ -12,6 +12,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 .relogio {
@@ -48,3 +49,8 @@ body {
     font-size: 10px;
 }
 
+.data {
+    margin-top: 2.5%;
+    font-size: 25px;
+    color: #fff;
+}
